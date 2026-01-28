@@ -1,10 +1,8 @@
-# Welcome to my Web Mapping Portfolio
-
-Hello, I'm Tom Lackow
-
-This is a very basic page for my website, which I am building as part of my graduate coursework.
-
-Here are some items that I might include later:
-*Links to my web mapping projects
-*Information about my skills and experiences
-*A way to contact me
+---
+layout: default
+title: Tom Lackow
+---
+<div class="blurb">
+	<h1>Hi there, I'm Tom Lackow!</h1>
+	<p>I'm a graduate student working on developing my web GIS portfolio. I'll be providing links to all of my ongoing work.</p>
+</div><!-- /.blurb -->
